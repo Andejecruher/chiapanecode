@@ -1,0 +1,110 @@
+body
+{
+	background-color: #fff;
+}
+
+hr
+{
+	color: withe;
+}
+.andejecruher
+{
+	
+}
+
+.fondo
+{
+	background-color: white;
+}
+
+.post
+{
+	margin-right: 5px;
+}
+
+.menu
+{
+	background-color: #008cba;
+	border-color: #007cba;
+	color: white;
+	opacity: 0.9;
+}
+
+.caret-cat
+{
+	margin-top: -14%;
+  	margin-left: 10px;
+}
+
+.logo
+{
+	margin-top: -8%;
+	width: 80%;
+	padding: 1em;
+}
+
+.jumbotron
+{
+	background-image: url(../img/macbook.jpg);
+	height: 450px;
+}
+
+.text-right
+{
+	text-align: right;
+}
+
+.center
+{
+	text-align: center;
+	color: white;
+}
+
+h3, .center
+{
+	margin-top: 5%;
+}
+
+.description
+{
+	font-size: 0.8em;
+}
+
+.tag
+{
+	margin-bottom: 3%;
+}
+
+.new
+{
+	margin-top: 3%;
+}
+
+.img-reciente
+{
+	width: 50%;
+	margin-right: 3%;
+	padding-right: 8px;
+}
+
+.reciente
+{
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.caption, p, span
+{
+	margin-right: 2%;
+}
+
+.caption, p
+{
+	font-size: 1.1em;
+}
+
+.img-post
+{
+	width: 80%;
+	padding: 1.5em;
+}
